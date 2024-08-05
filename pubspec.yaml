@@ -1,6 +1,6 @@
-name: temperature_converter
+name: convert_temperature
 description:  U can use my temperature converter anytime it is comfortable and good works
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Abrorov-javohir/temperature_converter
 repository: https://github.com/Abrorov-javohir/temperature_converter
 environment:
